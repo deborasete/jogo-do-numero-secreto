@@ -7,7 +7,9 @@
 
 Esse jogo é uma maneira divertida de desafiar sua lógica e intuição! Boa sorte!
   
-![image](https://github.com/user-attachments/assets/81576a0d-7ce4-402f-a51d-f50e00929e7a)
+![image](https://github.com/user-attachments/assets/a03d645b-0278-4015-a7bc-852022185eb7)
+
+
 
 
 ## Ferramentas utilizadas: 
